@@ -20,7 +20,7 @@ Win+R打开注册表
 
 
 
-![0](images\0.png)
+![0](images/0.png)
 
 
 
@@ -30,13 +30,13 @@ Win+R打开注册表
 
 定位到 HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment
 
-![1](images\1.png)
+![1](images/1.png)
 
 这就是存储**系统环境变量**的注册表了
 
 左侧文件树中，右键Environment，选择导出
 
-![2](images\2.png)
+![2](images/2.png)
 
 导出后选择合适的位置保存
 

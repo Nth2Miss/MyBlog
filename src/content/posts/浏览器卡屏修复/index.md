@@ -30,11 +30,11 @@ draft: false
 
 按下Win+R，输入regedit，打开 注册表
 
-![](images/0.png)
+![](./images/0.png)
 
 打开之后定位到 HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\Dwm
 
-![](images/1.png)
+![](./images/1.png)
 
 
 

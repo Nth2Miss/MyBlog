@@ -29,7 +29,7 @@ MySQL8.0 For Windows zip包下载地址：[MySQL Community Downloads](https://de
 
 解压后的文件目录
 
-![](images/0.png)
+![](./images/0.png)
 
 
 
@@ -37,7 +37,7 @@ MySQL8.0 For Windows zip包下载地址：[MySQL Community Downloads](https://de
 
 
 
-![img](images/1.png)
+![img](./images/1.png)
 
 　　　　将解压文件夹下的bin路径添加到变量值中，前后以 ; 开头结尾
 
@@ -88,7 +88,7 @@ default-character-set=utf8mb4
 
 在安装时，必须以管理员身份运行cmd，否则在安装时会报错，会导致安装失败的情况
 
-![img](images/2.png)
+![img](./images/2.png)
 
 
 
@@ -143,7 +143,7 @@ mysqld --install [服务名]
 
 
 
-![img](images/3.png)
+![img](./images/3.png)
 
 ##  4、更改密码
 
@@ -158,7 +158,7 @@ mysql -u root -p
 
 
 
-![img](images/4.png)
+![img](./images/4.png)
 
 在MySQL中执行命令：
 
