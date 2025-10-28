@@ -16,11 +16,14 @@ draft: false
 ![3](./images/3.png)
 
 
+
+
 # 方法一：下载注册表文件，双击直接导入注册表，然后重启即可
 
 
+<a href="/files/浏览器卡屏修复.reg" download>浏览器卡屏修复.reg</a>
 
-<a href="https://nth2miss.lanzoue.com/iUthI39gx0ob" target="_blank">浏览器卡屏修复.reg</a>
+[//]: # (<a href="https://nth2miss.lanzoue.com/iUthI39gx0ob" target="_blank">浏览器卡屏修复.reg</a>)
 
 <br>
 
