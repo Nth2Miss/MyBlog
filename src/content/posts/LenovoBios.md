@@ -19,11 +19,11 @@ password: "LenovoU1"
 
 解压后打开：
 
-![1](./images/1.png)
+![1](/encrypted_images/LenovoBios/1.png)
 
 插入U盘后，双击运行 `usbfmtpw.exe`：
 
-![2](./images/2.png)
+![2](/encrypted_images/LenovoBios/2.png)
 
 检查 Drive 盘号是否和你此电脑里 U 盘的盘号一致。
 
@@ -35,11 +35,11 @@ password: "LenovoU1"
 
 解压 U1 Key Updater：
 
-![3](./images/3.png)
+![3](/encrypted_images/LenovoBios/3.png)
 
 双击 `U1.exe` 打开：
 
-![4](./images/4.png)
+![4](/encrypted_images/LenovoBios/4.png)
 
 选择 U 盘的盘号，点击 update 烧录。
 
@@ -64,17 +64,17 @@ password: "LenovoU1"
 
 ## 4.U1 Tool
 
-![6](./images/6.png)
+![6](/encrypted_images/LenovoBios/6.png)
 
 这边不用操作，等待5秒，到下图界面
 
 
-![7](./images/7.png)
+![7](/encrypted_images/LenovoBios/7.png)
 
 
 选择第一个
 
-![8](./images/8.png)
+![8](/encrypted_images/LenovoBios/8.png)
 
 进入到这个界面，可以一键修改或者只修改你想要的
 
@@ -94,6 +94,6 @@ password: "LenovoU1"
 输入命令：UoneS
 按照图里标注的进行修改
 
-![9](./images/9.png)
+![9](/encrypted_images/LenovoBios/9.png)
 
 
